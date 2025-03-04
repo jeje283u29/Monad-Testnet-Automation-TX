@@ -1,0 +1,2 @@
+wallet_address_1
+wallet_address_2
